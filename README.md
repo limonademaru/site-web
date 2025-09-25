@@ -12,4 +12,4 @@ NavBar
 > Section "Destinatios".
 
 > ## Footer
-> ,jhgkhjgkjhbljk
+> ,jhgkhjgkjh
